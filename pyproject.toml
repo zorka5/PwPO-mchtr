@@ -7,8 +7,6 @@ authors = ["Zofia Kubrak"]
 [tool.poetry.dependencies]
 python = "^3.10"
 numpy = "^1.22.3"
-opencv-python = "^4.5.5"
-opencv-python-headless = "^4.5.5"
 opencv-contrib-python = "^4.5.5"
 flake8 = "^4.0.1"
 black = "^22.1.0"
